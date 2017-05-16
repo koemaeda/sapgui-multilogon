@@ -4,6 +4,8 @@ A little tool to return an indispensable feature to SAPGUI for Windows (versions
 
 *The ctrl+click on radio buttons*
 
+![Example usage](img/example.jpg?raw=true)
+
 If you're an SAP consultant, you know what that's for ;)
 
 This tool is not a patch and doesn't modify any files on your computer (specially not any file from SAP owned software!). It works by patching SAPGUI's running code in memory.
